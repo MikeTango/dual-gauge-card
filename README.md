@@ -81,7 +81,7 @@ Colors, as well as the min and max values, may be configured once for both gauge
 
 The example on the screenshot is configured like this:
 ```
-- type: custom:dual-gauge-card
+type: 'custom:dual-gauge-card'
   title: Living room
   min: -20
   max: 40
@@ -111,7 +111,7 @@ The example on the screenshot is configured like this:
 In this example, the outer gauge has individual min and max values and uses default colors, whereas the inner
 gauge has individual colors and uses the common min and max values.
 ```
-- type: custom:dual-gauge-card
+type: 'custom:dual-gauge-card'
   title: Living room
   min: -20
   max: 40
