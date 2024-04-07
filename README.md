@@ -1,6 +1,6 @@
 # Dual gauge card
 
-Two gauges in one, built mostly with CSS.
+Two gauges in one, built mostly with CSS. I have done nothing new here, just updated the copypasteable example because OP's syntax was borked. This plugin does not show up in your card menu after the install via HACS. You have to copypaste the example into a custom card template. Maybe i can fix that but i've been literally doing the HA stuff since yesterday. I am also documenting the css variables features here because it bothered me that i had to find out all the things.
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
